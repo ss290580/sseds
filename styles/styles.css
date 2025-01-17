@@ -346,7 +346,7 @@ header .spinner-wheel-suspense {
 
 /* section metadata */
 main .section.highlight {
-  background-color: var(--highlight-background-color);
+  background-color: red;
 }
 
 /*
